@@ -1,5 +1,7 @@
 Markdown
 
+![Banner](images/banner.png)
+
 ##  Alien Invasion Game with Sounds
 A simple **Pygame** project inspired by classic space shooter games.
 This version includes sound effects for shooting and explosions.
