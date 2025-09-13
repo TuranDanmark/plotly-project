@@ -1,6 +1,8 @@
 Markdown
 
-![Banner](images/banner.png)
+<p align="center">
+  <img src="assets/banner.png" alt="Alien Invasion Banner" width="800"/>
+</p>
 
 ##  Alien Invasion Game with Sounds
 A simple **Pygame** project inspired by classic space shooter games.
