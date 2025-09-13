@@ -1,7 +1,7 @@
 Markdown
 
 <p align="center">
-  <img src="assets/banner.png" alt="Alien Invasion Banner" width="800"/>
+  <img src="images/banner.png" alt="Alien Invasion Banner" width="600"/>
 </p>
 
 ##  Alien Invasion Game with Sounds
